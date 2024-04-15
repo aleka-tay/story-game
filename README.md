@@ -1,4 +1,4 @@
-##This project is created from the materials provided by APPBrewery. The code written in this project is an independent work. Only the supplementary materials, such as logo, images, storyline, where borrowed from the source below.
+## This project is created from the materials provided by APPBrewery. The code written in this project is an independent work. Only the supplementary materials, such as logo, images, storyline, where borrowed from the source below.
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Destini
