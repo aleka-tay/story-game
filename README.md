@@ -4,7 +4,7 @@ This project is created from the materials provided by APPBrewery. The code writ
 
 This project covers the UIButtons change the label according to the prompt provided and studtures. To perform simple switch between the storylines comparision and if-else statment were used.
 
-![ScreenShot of Preview](Documentation/Screenshot.png)
+<img src="Documentation/Screenshot.png" width=50% height=50%>
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
